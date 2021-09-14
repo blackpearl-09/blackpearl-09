@@ -1,3 +1,3 @@
 # blackpearl-09
 
-C:\Users\hp\Github\blackpearl-09\.git\workflows\snake.yml
+![snake gif](https://github.com/blackpearl-09/blackpearl-09/blob/output/github-contribution-grid-snake.svg)
